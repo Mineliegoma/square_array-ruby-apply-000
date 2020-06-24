@@ -1,9 +1,9 @@
 def square_array(array)
   # your code here
-  array.each do |number|
+  update_array.each do |number|
     
      number**2
-     update_array
+     
   end
   
 end
